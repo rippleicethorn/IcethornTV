@@ -25,14 +25,14 @@
 <jxgg9>https://pay.520yk.cn/256/?url=</jxgg9>
 <jxgg10>https://www.qianyicp.com/jiexi/index.php?url=</jxgg10>
 
-<jxgg11>http://154.204.27.150/jiexi/6kJX.php/?url=</jxgg11>  <---其他解析--->
-<jxgg12>http://154.204.27.150/jiexi/6kJX.php/?url=</jxgg12>  <---腾讯解析--->
-<jxgg13>http://154.204.27.150/jiexi/6kJX.php/?url=</jxgg13>  <---奇艺解析--->
-<jxgg14>http://154.204.27.150/jiexi/6kJX.php/?url=</jxgg14>  <---优酷解析--->
-<jxgg15>http://154.204.27.150/jiexi/6kJX.php/?url=</jxgg15>  <---芒果解析--->
-<jxgg16>http://154.204.27.150/jiexi/6kJX.php/?url=</jxgg16>  <---备用解析--->
-<jxgg17>http://154.204.27.150/jiexi/6kJX.php/?url=</jxgg17>  <---央视解析--->
-<jxgg18>http://154.204.27.150/jiexi/6kJX.php/?url=</jxgg18>  <---哔哩解析--->
+<jxgg11>http://www.clicli3.com/19json.php?url=</jxgg11>  <---其他解析--->
+<jxgg12>http://www.clicli3.com/19json.php?url=</jxgg12>  <---腾讯解析--->
+<jxgg13>http://www.clicli3.com/19json.php?url=</jxgg13>  <---奇艺解析--->
+<jxgg14>http://www.clicli3.com/19json.php?url=</jxgg14>  <---优酷解析--->
+<jxgg15>http://www.clicli3.com/19json.php?url=</jxgg15>  <---芒果解析--->
+<jxgg16>http://www.clicli3.com/19json.php?url=</jxgg16>  <---备用解析--->
+<jxgg17>http://www.clicli3.com/19json.php?url=</jxgg17>  <---央视解析--->
+<jxgg18>http://www.clicli3.com/19json.php?url=</jxgg18>  <---哔哩解析--->
 <jxgg100>https://zz.ci/app/xz/?url=</jxgg100>  <---更新解析--->
 
 -----------芒果头---------
