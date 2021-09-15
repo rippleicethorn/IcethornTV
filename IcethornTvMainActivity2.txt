@@ -25,14 +25,14 @@
 <jxgg9>https://pay.520yk.cn/256/?url=</jxgg9>
 <jxgg10>https://www.qianyicp.com/jiexi/index.php?url=</jxgg10>
 
-<jxgg11>http://mufeng.wkfile.com/tvjh/?url=</jxgg11>  <---其他解析--->
-<jxgg12>http://mufeng.wkfile.com/tvjh/?url=</jxgg12>  <---腾讯解析--->
-<jxgg13>http://mufeng.wkfile.com/tvjh/?url=</jxgg13>  <---奇艺解析--->
-<jxgg14>http://mufeng.wkfile.com/tvjh/?url=</jxgg14>  <---优酷解析--->
-<jxgg15>http://mufeng.wkfile.com/tvjh/?url=</jxgg15>  <---芒果解析--->
+<jxgg11>https://mufeng.wkfile.com/tvjh/?url=</jxgg11>  <---其他解析--->
+<jxgg12>https://mufeng.wkfile.com/tvjh/?url=</jxgg12>  <---腾讯解析--->
+<jxgg13>https://mufeng.wkfile.com/tvjh/?url=</jxgg13>  <---奇艺解析--->
+<jxgg14>https://mufeng.wkfile.com/tvjh/?url=</jxgg14>  <---优酷解析--->
+<jxgg15>https://mufeng.wkfile.com/tvjh/?url=</jxgg15>  <---芒果解析--->
 <jxgg16>http://mufeng.wkfile.com/tvza/?url=</jxgg16>  <---备用解析--->
 <jxgg17>http://mufeng.wkfile.com/tvza/?url=</jxgg17>  <---央视解析--->
-<jxgg18>http://mufeng.wkfile.com/tvjh/?url=</jxgg18>  <---哔哩解析--->
+<jxgg18>https://mufeng.wkfile.com/tvjh/?url=</jxgg18>  <---哔哩解析--->
 <jxgg100>https://zz.ci/app/xz/?url=</jxgg100>  <---更新解析--->
 
 -----------芒果头---------
