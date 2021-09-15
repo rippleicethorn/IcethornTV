@@ -1,9 +1,10 @@
 ------版本更新-------
-<bb>1.7.0</bb>
-<bbm>冰棘影视1.7.0.apk</bbm>
-<url>https://gitee.com/icethorn/icethornfilms/attach_files/711403/download/com.icethorn.tv_1.7.0_release.apk</url>
-<gxnr>1、优化了界面布局
-2、修复了1.5版本中搜索失败的bug</gxnr>
+<bb>1.9.0</bb>
+<bbm>冰棘影视_1.9.0.apk</bbm>
+<url>https://gitee.com/icethorn/icethornfilms/attach_files/788274/download/com.icethorn.tv_1.9.0_release.apk</url>
+<gxnr>1.更换了软件界面UI；
+2.增加了筛选功能；
+3.修复了1.8.0版本的部分BUG！</gxnr>
 
 
 -----滚动公告------
