@@ -26,14 +26,14 @@
 <jxgg9>https://pay.520yk.cn/256/?url=</jxgg9>
 <jxgg10>https://www.qianyicp.com/jiexi/index.php?url=</jxgg10>
 
-<jxgg11>http://82.156.105.67:2001/miantiao/apics.php?key=</jxgg11>  <---其他解析--->
-<jxgg12>http://82.156.105.67:2001/miantiao/apics.php?key=</jxgg12>  <---腾讯解析--->
-<jxgg13>http://82.156.105.67:2001/miantiao/apics.php?key=</jxgg13>  <---奇艺解析--->
-<jxgg14>http://82.156.105.67:2001/miantiao/apics.php?key=</jxgg14>  <---优酷解析--->
-<jxgg15>http://82.156.105.67:2001/miantiao/apics.php?key=</jxgg15>  <---芒果解析--->
-<jxgg16>http://82.156.105.67:2001/miantiao/apics.php?key=</jxgg16>  <---备用解析--->
-<jxgg17>http://82.156.105.67:2001/miantiao/apics.php?key=</jxgg17>  <---央视解析--->
-<jxgg18>http://82.156.105.67:2001/miantiao/apics.php?key=</jxgg18>  <---哔哩解析--->
+<jxgg11>http://cloudflare.wkfile.com/jhtvone/ceshi1.php?url=</jxgg11>  <---其他解析--->
+<jxgg12>http://cloudflare.wkfile.com/jhtvone/ceshi1.php?url=</jxgg12>  <---腾讯解析--->
+<jxgg13>http://cloudflare.wkfile.com/jhtvone/ceshi1.php?url=</jxgg13>  <---奇艺解析--->
+<jxgg14>http://cloudflare.wkfile.com/jhtvone/ceshi1.php?url=</jxgg14>  <---优酷解析--->
+<jxgg15>http://cloudflare.wkfile.com/jhtvone/ceshi1.php?url=</jxgg15>  <---芒果解析--->
+<jxgg16>http://cloudflare.wkfile.com/tvza/?url=</jxgg16>  <---备用解析--->
+<jxgg17>http://cloudflare.wkfile.com/tvza/?url=</jxgg17>  <---央视解析--->
+<jxgg18>http://cloudflare.wkfile.com/jhtvone/ceshi1.php?url=</jxgg18>  <---哔哩解析--->
 <jxgg100>http://zz.ci/app/xz/?url=</jxgg100>  <---更新解析--->
 
 -----------芒果头---------
